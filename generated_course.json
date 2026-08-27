@@ -1,0 +1,97 @@
+[
+  {
+    "module_number": 1,
+    "title": "Passwords and Authentication",
+    "learning_objectives": [
+      "Understand the requirement to use strong passwords.",
+      "Learn the rules regarding password sharing and multi-factor authentication."
+    ],
+    "summary": "This module covers the necessity of using strong passwords, prohibiting password sharing, and ensuring multi-factor authentication is enabled where provided.",
+    "source_page": "Page 1",
+    "quiz_question": "What is required regarding passwords and authentication according to the policy?",
+    "answer_options": [
+      "Share passwords with colleagues for team efficiency",
+      "Use strong passwords and do not share them",
+      "Multi-factor authentication is optional where provided",
+      "Passwords never need to be changed"
+    ],
+    "correct_answer": "Use strong passwords and do not share them",
+    "explanation": "The policy explicitly states that employees must use strong passwords and must not share passwords, and multi-factor authentication must be enabled where provided."
+  },
+  {
+    "module_number": 2,
+    "title": "Company Devices",
+    "learning_objectives": [
+      "Identify the rules regarding software installation on company devices.",
+      "Understand when and how to secure unattended company devices."
+    ],
+    "summary": "This module outlines device security, including the strict prohibition of installing unauthorized software and the requirement to lock devices when left unattended.",
+    "source_page": "Page 1",
+    "quiz_question": "What must employees do when leaving a company device unattended?",
+    "answer_options": [
+      "Leave it open for easy access",
+      "Lock the device",
+      "Turn off the internet connection",
+      "Uninstall all software"
+    ],
+    "correct_answer": "Lock the device",
+    "explanation": "According to the policy, devices must be locked when left unattended."
+  },
+  {
+    "module_number": 3,
+    "title": "Confidential Information",
+    "learning_objectives": [
+      "Identify what types of data are classified as confidential.",
+      "Understand the restrictions on sending confidential information."
+    ],
+    "summary": "This module details what constitutes confidential information (such as customer and financial records) and stresses that it must not be sent to unauthorized persons.",
+    "source_page": "Page 1",
+    "quiz_question": "Which of the following must be treated as confidential?",
+    "answer_options": [
+      "Customer information and financial records",
+      "Publicly available press releases",
+      "General company announcements",
+      "Standard office supply lists"
+    ],
+    "correct_answer": "Customer information and financial records",
+    "explanation": "The policy states that customer information, financial records, employee records, and internal business documents must be treated as confidential."
+  },
+  {
+    "module_number": 4,
+    "title": "Email and Phishing",
+    "learning_objectives": [
+      "Learn how to handle email links and attachments cautiously.",
+      "Understand the procedure for handling suspicious emails."
+    ],
+    "summary": "This module trains employees to exercise caution with email links and attachments and mandates reporting suspicious emails to the IT or security team.",
+    "source_page": "Page 1",
+    "quiz_question": "What should an employee do if they receive a suspicious email?",
+    "answer_options": [
+      "Open all attachments immediately",
+      "Forward it to all other employees",
+      "Report it to the IT or security team",
+      "Delete it and ignore the policy"
+    ],
+    "correct_answer": "Report it to the IT or security team",
+    "explanation": "The policy specifies that suspicious emails must be reported to the IT or security team."
+  },
+  {
+    "module_number": 5,
+    "title": "Incident Reporting and Remote Work",
+    "learning_objectives": [
+      "Know which incidents must be reported immediately to the security team.",
+      "Understand secure practices for remote work environments."
+    ],
+    "summary": "This module covers the immediate reporting of security incidents\u2014such as lost devices or account compromises\u2014and outlines remote work security requirements like using secure connections and approved systems.",
+    "source_page": "Page 1",
+    "quiz_question": "Where must company information NOT be stored when working remotely?",
+    "answer_options": [
+      "Approved company systems",
+      "Shared or public computers",
+      "Secure internet connections",
+      "Company-provided devices"
+    ],
+    "correct_answer": "Shared or public computers",
+    "explanation": "The remote work section of the policy explicitly states that company information must not be stored on shared or public computers."
+  }
+]
