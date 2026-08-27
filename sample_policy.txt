@@ -1,0 +1,3 @@
+SAMPLE POLICY NOTE
+
+Use a non-sensitive policy PDF to test the app. Do not upload confidential company documents to a public demo without permission.
