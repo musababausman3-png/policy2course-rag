@@ -92,3 +92,55 @@ Python · Streamlit · PyMuPDF · Sentence Transformers · ChromaDB · Gemini AP
 
 ## Author
 Musa Baba Usman
+## Tested End-to-End Result
+
+The complete RAG pipeline was successfully tested using a sample
+employee information-security policy.
+
+The system successfully performed:
+
+1. PDF text extraction
+2. Page-aware text chunking
+3. Sentence Transformer embedding generation
+4. Vector indexing with ChromaDB
+5. Semantic retrieval of relevant policy passages
+6. Grounded LLM generation
+7. Generation of exactly five employee training modules
+
+### Retrieval Test
+
+Example query:
+
+> What should an employee do after receiving a suspicious email?
+
+The highest-ranked retrieved passage correctly identified the policy
+requirement that suspicious emails should be reported to the IT or
+security team.
+
+### Generated Course
+
+The final system generated five grounded training modules covering:
+
+- Passwords and authentication
+- Company device security
+- Confidential information
+- Email and phishing
+- Incident reporting and remote work
+
+Each generated module contains learning objectives, a concise lesson
+summary, source-page information, and a multiple-choice assessment with
+an answer and explanation.
+
+A complete example output is available in:
+
+`generated_course.json`
+
+## Current Status
+
+✅ PDF ingestion tested  
+✅ Text chunking tested  
+✅ Embedding generation tested  
+✅ ChromaDB vector retrieval tested  
+✅ Semantic retrieval tested  
+✅ Gemini API integration tested  
+✅ Five-module course generation tested
