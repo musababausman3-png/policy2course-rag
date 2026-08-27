@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from typing import Iterable
 
 import chromadb
-import fitz
+import pymupdf
 from google import genai
 from sentence_transformers import SentenceTransformer
 
